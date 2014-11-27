@@ -1,0 +1,2 @@
+este archivo debe ignorarse
+no se 
